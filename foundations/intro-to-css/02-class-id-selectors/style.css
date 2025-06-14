@@ -1,0 +1,17 @@
+.alert-text {
+  font-family: "Verdana", "DejaVu", sans-serif;
+  background-color: #f77ca3;
+}
+.big {
+  font-size: 24px;
+}
+
+#big-blue {
+  color: #426cf5;
+  font-size: 36px;
+}
+
+#bold-green {
+  background-color: #00f51d;
+  font-weight: bold;
+}
